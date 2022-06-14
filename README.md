@@ -12,7 +12,7 @@ description...
     - You are using your preferred database URL in `spring.datasource.url`
     - You are using your correct driver in `spring.datasource.driver-class-name`
 6. Go to `src/main/java/CardatabaseApplication.java`, then press `SHIFT + F10` to run the application
-7. Open your browser, and go see [`https://localhost:8080`](https://localhost:8080)
+7. Open your browser, and go see [`https://localhost:8080/api`](https://localhost:8080/api)
 
 before running the app, run the database via docker.
 ```bash
